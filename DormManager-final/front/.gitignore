@@ -1,0 +1,42 @@
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+
+### Maven ###
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### Spring Boot ###
+logs/
+*.log
+spring.log
+
+### IntelliJ ###
+.idea/
+*.iml
+out/
+
+### VS Code ###
+.vscode/
+
+### Node / React ###
+node_modules/
+build/
+dist/
+npm-debug.log*
+
+### OS files ###
+.DS_Store
+Thumbs.db
+
+### Environment ###
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+### Others ###
+tmp/
+*.tmp

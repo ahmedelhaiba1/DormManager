@@ -1,0 +1,198 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# IDE - IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+*.iml
+out/
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+.vscode/
+*.launch
+.c9/
+
+# IDE - VS Code
+.vscode/
+*.code-workspace
+
+# IDE - NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.directory
+
+# Java
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+!apache-maven-3.9.11/
+!apache-maven-3.9.11/**
+
+# Logs
+logs/
+*.log
+*.logs
+jmeter.log
+catalina.out
+*.pid
+
+# JMeter
+jmeter/output.jtl
+results/
+jmeter.properties.bak
+
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Node (if applicable)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Configuration files with sensitive data
+application-prod.properties
+application-dev.properties
+*.properties.local
+.env
+.env.local
+.env.*.local
+
+# Coverage reports
+coverage/
+*.coverage
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+
+# SonarQube
+.sonarqube/
+.sonarlint/
+
+# Checkstyle
+checkstyle-cachefile
+checkstyle-result.xml
+checkstyle-report.html
+
+# Spotbugs
+spotbugsXml.xml
+spotbugs.xml
+
+# JetBrains
+*.patch
+
+# Misc
+.*.sw[op]
+.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/
+node_modules/
+dist/
+tmp/
+temp/
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Git
+.git/
+.gitmodules
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+
+# Archive files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Virtual environments
+venv/
+env/
+.venv
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
